@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
                 txtDecision.text = decisionList[randomDecision]
             } else {
                 txtDecision.text = "You have not entered any options"
+
             }
 
         }
